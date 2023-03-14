@@ -34,7 +34,20 @@ h1{
     width: 40%;
     padding: 10px;
     margin-left:20px ;
+    margin-right: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 10px  gray ;
 
+}
+#factory{
+    border-left:5px solid tomato;
+}
+#company{
+    border-left:5px solid fuchsia;
+}
+footer p{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color:tan
+    
 }
