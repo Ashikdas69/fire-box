@@ -7,7 +7,7 @@ h1{
 .demo{
     color: #E0A82D;
 }
-section{
+.tissue{
     display: flex;
     margin-bottom: 150PX;
     
@@ -28,5 +28,13 @@ section{
     padding: 10px 30px;
     border-radius: 5px;
     color: pink;
+
+}
+.tissue-info{
+    width: 40%;
+    padding: 10px;
+    margin-left:20px ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px  gray ;
 
 }
